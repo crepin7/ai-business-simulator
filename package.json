@@ -1,0 +1,35 @@
+# Core dependencies
+react@^18.2.0
+react-dom@^18.2.0
+@types/react@^18.2.43
+@types/react-dom@^18.2.17
+
+# Game engine
+vite@^5.0.8
+typescript@^5.2.2
+
+# AI & Decision Making
+openai@^4.20.0
+@anthropic-ai/sdk@^0.18.0
+
+# Data Analysis
+tensorflow@^2.14.0
+pandas@^2.1.0
+numpy@^1.26.0
+
+# State management
+tailwind-merge@^2.1.0
+
+# Utilities
+clsx@^2.0.0
+
+# Audio
+howler@^2.2.3
+
+# Testing
+vitest@^1.0.0
+@testing-library/react@^14.1.0
+
+# Development
+eslint@^8.55.0
+prettier@^3.1.1
